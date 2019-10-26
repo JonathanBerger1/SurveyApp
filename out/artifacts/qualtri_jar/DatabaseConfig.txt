@@ -1,0 +1,8 @@
+#schema
+qualtrics
+#user
+team14
+#password
+yob5c
+#adress
+localhost:3306
